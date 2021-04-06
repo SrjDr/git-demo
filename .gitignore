@@ -1,4 +1,6 @@
-*.log
+
 *.db
+*.log
 /target
 /bin
+#and more info and more
